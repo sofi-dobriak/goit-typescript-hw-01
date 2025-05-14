@@ -1,1 +1,1 @@
-The first homework from the TypeScript block. Solidifying the syntax
+The first homework from the TypeScript block
